@@ -1,0 +1,6 @@
+{
+  "name": "Gestor de Proyecto & Carta Gantt",
+  "description": "Aplicación para el seguimiento y control de proyectos de implementación con diagrama de Gantt interactivo y 100% editable.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
